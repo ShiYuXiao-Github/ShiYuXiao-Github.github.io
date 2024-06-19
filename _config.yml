@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "个人简介"
+title                    : "Personal Profile"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "ShiYuXiao-Github/ShiYuXiao-Github.github.io"
 author:
   # Biographic information
   avatar           : "ShiyuXiao.png"
-  name             : "肖诗宇"
+  name             : "ShiyuXiao"
   pronouns         : # example: "she/her"  
-  bio              : "就读于东南大学吴健雄学院未来技术班"
-  location         : "江苏·南京"
-  employer         : "东南大学"
+  bio              : "I'm in pursuit of my Bachelor's Degree"
+  location         : "Nanjing, Jiangsu"
+  employer         : "Southeast University"
   uri              : # URL
   email            : "418811238@qq.com" 
 
