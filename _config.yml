@@ -21,12 +21,12 @@ repository               : "ShiYuXiao-Github/ShiYuXiao-Github.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ShiyuXiao.JPG"
+  avatar           : "ShiyuXiao.png"
   name             : "肖诗宇"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Nanjing, Jiangsu"
-  employer         : "Southeast University"
+  bio              : "就读于东南大学吴健雄学院未来技术班"
+  location         : "江苏·南京"
+  employer         : "东南大学"
   uri              : # URL
   email            : "418811238@qq.com" 
 
